@@ -181,7 +181,7 @@
     "html-tags": "^2.0.0",
     "katex": "^0.10.1",
     "keyboard-layout": "^2.0.15",
-    "mermaid": "^8.0.0",
+    "mermaid": "^8.13.8",
     "popper.js": "^1.15.0",
     "prismjs2": "^1.15.1",
     "snabbdom": "^0.7.3",
